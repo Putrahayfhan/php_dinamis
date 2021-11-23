@@ -34,7 +34,7 @@
             </nav>
             <!-- ini adalah penutup navbar -->
             <!-- content 1 -->
-            <div class="container">
+            <div class="container" id ="perkenalan" >
          <div class="row">
     <div class="col-4">
     <div class="card mx-auto" style="width: 18rem;">
@@ -43,13 +43,42 @@
     <p class="card-text">Putra</p>
   </div>
 </div>
+
     </div>
     <div class="col-8">
       <h1>Selamat datang di website saya</h1>
       <p>Perkenalkan nama saya putra hayfhan biasa dipanggil masput saya sekolah di SMKS Jakarta pusat 1 dan saya berada di kelas 11 RPL  </p>
     </div>
   </div>
-  <!-- content 1 -->
+  <!-- penutup content 1 -->
+   <!-- content 2 -->
+     <div class="container" id ="alamat" >
+         <div class="row">
+    <div class="col-8">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/slide/rumah 1.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/rumah 2.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/rumah 3.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+  </div>
+  
+  <div class="col-4">
+      <h1>Alamat Saya</h1>
+      <p>jalan petojo binatu 7 no 2 RT 02 RW 07 Jakarta Pusat</p>
+    </div>
+</div>
+
+  </div>
+  <!-- penutup content 2 -->
+
 </div>
         </div>
         <!-- akhir pembungkus -->
